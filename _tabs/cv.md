@@ -10,7 +10,7 @@ order: 1
 - **M.Sc. in Computer Science** (2019 - 2021)  
   University of Tübingen, Germany  
   GPA: 1.0 (German grading system)  
-  Thesis: [Deep Learning for Image Segmentation]
+  Thesis: [Phantom: A Python Library for Deep Learning in Medical Imaging]
 
 - **B.Sc. in Computer Science** (2015 - 2019)
     University of Tübingen, Germany  
@@ -21,7 +21,6 @@ order: 1
 
 - **Research Assistant** (2019 - 2021)  
   University of Tübingen, Germany  
-  *Supervisor: Prof. Dr. Andreas Zell*  
   - Research on deep learning for image segmentation
   - Teaching assistant for the course Machine Learning for Computer Vision
   - Teaching assistant for the course Introduction to Machine Learning
@@ -55,7 +54,7 @@ order: 1
 
 - **Research Intern** (2018 - 2019)
     University of Tübingen, Germany  
-    *Supervisor: Prof. Dr. Andreas Zell*  
+    
     - Research on deep learning for image segmentation
 
 

@@ -18,7 +18,7 @@ Programming is my passion. I love to code and learn new things. I am a self-taug
 - **M.Sc. in Computer Science** (2019 - 2021)  
   University of Tübingen, Germany  
   GPA: 1.0 (German grading system)  
-  Thesis: [Deep Learning for Image Segmentation]
+  Thesis: [Phantom: A Python Library for Deep Learning in Medical Imaging]
 
 - **B.Sc. in Computer Science** (2015 - 2019)
     University of Tübingen, Germany  
