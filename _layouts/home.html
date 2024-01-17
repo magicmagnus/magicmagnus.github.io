@@ -1,0 +1,19 @@
+---
+layout: page
+refactor: true
+---
+
+{% include lang.html %}
+
+{% for tab in site.tabs %}
+
+{% if tab.title == "Home" %}
+<h1 class="dynamic-title">
+  {{ tab.title }}
+</h1>
+<div class="content">
+  {{ tab.content }}
+</div>
+
+{% endif %}
+{% endfor %}
