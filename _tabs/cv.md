@@ -52,7 +52,7 @@ order: 1
     - Teaching assistant for the course Introduction to Computer Science for Catholic Theology
     - Teaching assistant for the course Introduction to Computer Science for Islamic Theology
 
-- **Research Intern** (2018 - 2019)
+- **Research Intern** (2018 - 2019)  
   University of Tübingen, Germany  
     - Research on deep learning for image segmentation
 
