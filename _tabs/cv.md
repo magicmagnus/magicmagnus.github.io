@@ -12,10 +12,10 @@ order: 1
   GPA: 1.0 (German grading system)  
   Thesis: [Phantom: A Python Library for Deep Learning in Medical Imaging]
 
-- **B.Sc. in Computer Science** (2015 - 2019)
-    University of Tübingen, Germany  
-    GPA: 1.0 (German grading system)  
-    Thesis: [Fuzzy Logic for Autonomous Driving]
+- **B.Sc. in Computer Science** (2015 - 2019)  
+  University of Tübingen, Germany  
+  GPA: 1.0 (German grading system)  
+  Thesis: [Fuzzy Logic for Autonomous Driving]
 
 ## Work Experience
 
