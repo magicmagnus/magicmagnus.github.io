@@ -20,7 +20,7 @@ order: 1
 ## Work Experience
 
 - **Research Assistant** (2019 - 2021)  
-    University of Tübingen, Germany  
+  University of Tübingen, Germany  
     - Research on deep learning for image segmentation
     - Teaching assistant for the course Machine Learning for Computer Vision
     - Teaching assistant for the course Introduction to Machine Learning
@@ -52,9 +52,8 @@ order: 1
     - Teaching assistant for the course Introduction to Computer Science for Catholic Theology
     - Teaching assistant for the course Introduction to Computer Science for Islamic Theology
 
-
 - **Research Intern** (2018 - 2019)
-    University of Tübingen, Germany  
+  University of Tübingen, Germany  
     - Research on deep learning for image segmentation
 
 
