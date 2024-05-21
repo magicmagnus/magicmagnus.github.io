@@ -12,4 +12,4 @@ image:
 
 For the course "Bildverarbeitung, Maschinelles Lernen und Computer Vision", I have been part of a project to detect traffic lights in images and videos as well as the state of the traffic light (red, red-yellow, yellow, green, off), to be used in driver-assistance systems and autonomous vehicles. 
 
-We split our pipeline into multiple separate steps, my contribution to the project was the implementation of the traffic light State Detection model using a custom ResNet architecture, implemented in PyTorch. The model was trained on our self-annotated data from the [DTLD datset provided by driveU](http://www.traffic-light-data.com). The final model achieved an accuracy of 97.7% on the test set.
+We split our pipeline into multiple separate steps, my contribution to the project was the implementation of the traffic light State Detection model using a custom ResNet architecture, implemented in PyTorch. The model was trained on our self-annotated data from the [DTLD datset provided by driveU](https://www.uni-ulm.de/in/iui-drive-u/projekte/driveu-traffic-light-dataset/). The final model achieved an accuracy of 97.7% on the test set.
