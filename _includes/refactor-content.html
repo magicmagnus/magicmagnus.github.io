@@ -101,7 +101,7 @@
   {% assign _left = _left | replace: 'src="', _src_alt %}
   {% endunless %}
 
-  {% if _lqip %}
+  <!-- {% if _lqip %}
   {% assign _lazyload = false %}
   {% assign _class = _class | append: ' blur' %}
 
@@ -110,12 +110,12 @@
   {% assign _left = _left | replace: 'lqip="', _lqip_alt %}
   {% endunless %}
 
-  <!-- add image placeholder -->
+   add image placeholder 
   {% assign _left = _left | replace: 'src=', 'data-src=' | replace: ' lqip=', ' data-lqip="true" src=' %}
 
   {% else %}
   {% assign _class = _class | append: ' shimmer' %}
-  {% endif %}
+  {% endif %} -->
 
   <!-- lazy-load images -->
   {% if _lazyload %}
@@ -124,7 +124,7 @@
 
   {% if page.layout == 'home' or page.layout == 'projects' %}
   <!-- create the image wrapper -->
-  {% assign _wrapper_start = '<div class="preview-img ' | append: _class | append: '">' %}
+  {% assign _wrapper_start = '<div class="preview-img">' %}
 
     {% assign _img_content = _img_content | append: _wrapper_start %}
     {% assign _right = _right | prepend: '></div' %} {% else %} <!-- make sure the `<img>` is wrapped by `<a>` -->
@@ -133,9 +133,11 @@
       {% if _parent == '</a>' %}
     <!-- add class to exist <a> tag -->
     {% assign _size = _img_content | size | minus: 1 %}
-    {% capture _class %}
+    
+    <!-- {% capture _class %}
     class="img-link{% unless _lqip %} shimmer{% endunless %}"
-    {% endcapture %}
+    {% endcapture %} -->
+
     {% assign _img_content = _img_content | slice: 0, _size | append: _class | append: '>' %}
 
     {% else %}
