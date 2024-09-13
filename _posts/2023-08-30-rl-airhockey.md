@@ -9,6 +9,5 @@ image:
     alt: Results of the Traffic Light Detection model on a batch of images.
 ---
 
-## Air Hockey with Reinforcement Learning
 
-I have been working on a project to develop an Air Hockey game.
+Placeholder, will be updated soon.

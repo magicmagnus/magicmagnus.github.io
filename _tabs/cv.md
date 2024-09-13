@@ -7,7 +7,7 @@ order: 1
 
 ## Education
 
-- **M.Sc. in Computer Science** (2019 - now)  
+- **M.Sc. in Computer Science** (2022 - now)  
   University of Tübingen, Germany  
 
 - **B.Sc. in Cognitive Science** (2018 - 2022)  

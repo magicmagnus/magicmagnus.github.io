@@ -10,4 +10,6 @@ image:
 ---
 
 
-For the course "Visual Computing", I have been part of a project to visualize adversarial attacks on Deep Neural Networks (DNNs). The goal of the project was to understand how adversarial attacks work and how they can be visualized. We implemented the Fast Gradient Sign Method (FGSM) and the Projected Gradient Descent (PGD) attack on a pre-trained VGG16 model using PyTorch. We then visualized the adversarial examples and the perturbations added to the original image to create the adversarial example. The project was implemented in Python and the code can be found on [GitHub](
+For a computer science group project, I have been part of a project to visualize adversarial attacks on Deep Neural Networks (DNNs). The goal of the project was to understand how adversarial attacks work and how they can be visualized. 
+
+Link to Github: [Placeholder, will be updated soon.]
