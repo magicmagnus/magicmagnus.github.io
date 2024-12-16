@@ -1,6 +1,6 @@
 ---
 title: Kinoschurke - Web Scraping and Movie Website
-date: 2024-01-01 00:00:00 -500
+date: 2024-09-01 00:00:00 -500
 categories: [Web Scraping, Web Development]
 tags: [Web Scraping, JavaScript, Puppeteer]
 pin: false
