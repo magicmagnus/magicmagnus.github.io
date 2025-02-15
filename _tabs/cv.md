@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CV
-icon: fas fa-info-circle
+icon: fas fa-scroll
 order: 1
 ---
 
