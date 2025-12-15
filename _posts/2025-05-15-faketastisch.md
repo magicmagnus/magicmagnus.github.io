@@ -70,4 +70,3 @@ While originally intended to be used for entertainment, these generations also h
 
 Originally we used Huggingface Inference API to prompt [GPT-J-6B](https://github.com/kingoflolz/mesh-transformer-jax), but this model quickly got discontinued when the world wanted newer, bigger, better models thanks to the rise of ChatGPT. Sadly, a big part of what made these early generations so fun was the lack of refinement and alignment of these earlier LLMs. Now, the project uses a version of [Llama 3](https://huggingface.co/DiscoResearch/Llama3-German-8B) which still produces 
 
-![]()
