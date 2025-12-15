@@ -9,7 +9,7 @@ order: 4
 
 I'm a master's graduate in Computer Science from the University of Tübingen. Research fields that interest me are machine learning, computer vision and reinforcement learning. Otherwise, I enjoy web development and building automation projects that solve real-world problems.
 
-##### **Check out some of my projects [here](https://magicmagnus.github.io/projects/) or on my [GitHub](https://github.com/magicmagnus) profile.**
+## **Check out some of my projects [here](https://magicmagnus.github.io/projects/) or on my [GitHub](https://github.com/magicmagnus) profile.**
 
 
 ## Education
