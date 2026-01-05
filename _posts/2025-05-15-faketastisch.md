@@ -24,18 +24,25 @@ Choosing different lists of examples instead of facts lead to a selection of "th
 **[Faketastisch](https://faketastisch.netlify.app/faketastisch)**: 
 parody of popular german site [Faktastisch](https://www.instagram.com/faktastisch), produces true-ish sounding facts of questionable accuracy.
 <div style="display:grid;grid-template-columns: repeat(3, 1fr);gap:1rem;;max-width:600px;margin:auto;">
+  <img src="/assets/fact5.png" alt="fact 5" style="max-height:220px;object-fit:contain;">
   <img src="/assets/fact1.png" alt="fact 1" style="max-height:220px;object-fit:contain;">
   <img src="/assets/fact2.png" alt="fact 2" style="max-height:220px;object-fit:contain;">
   <img src="/assets/fact3.png" alt="fact 3" style="max-height:220px;object-fit:contain;">
+  <img src="/assets/fact4.png" alt="fact 4" style="max-height:220px;object-fit:contain;">
+  <img src="/assets/fact6.png" alt="fact 6" style="max-height:220px;object-fit:contain;">
 </div>
 
 <br />
 
 **[Sprichworte](https://faketastisch.netlify.app/sprichworte)**: generates (mostly) new proverbs
 <div style="display:grid;grid-template-columns: repeat(3, 1fr);gap:1rem;;max-width:600px;margin:auto;">
-  <img src="/assets/sp4.jpg" alt="fact 1" style="max-height:220px;object-fit:contain;">
-  <img src="/assets/sp2.png" alt="fact 2" style="max-height:220px;object-fit:contain;">
   <img src="/assets/sp3.png" alt="fact 3" style="max-height:220px;object-fit:contain;">
+  <img src="/assets/sp6.png" alt="fact 3" style="max-height:220px;object-fit:contain;">
+  <img src="/assets/sp4.png" alt="fact 1" style="max-height:220px;object-fit:contain;">
+  <img src="/assets/sp7.png" alt="fact 1" style="max-height:220px;object-fit:contain;">
+  <img src="/assets/sp8.png" alt="fact 2" style="max-height:220px;object-fit:contain;">
+  <img src="/assets/sp9.png" alt="fact 2" style="max-height:220px;object-fit:contain;">
+  
 </div>
 
 <br /> 
@@ -68,5 +75,5 @@ and more, including [Bible quotes](https://faketastisch.netlify.app/bibelzitate)
 
 While originally intended to be used for entertainment, these generations also highlight the tendency of LLMs to hallucinate and make up facts.
 
-Originally we used Huggingface Inference API to prompt [GPT-J-6B](https://github.com/kingoflolz/mesh-transformer-jax), but this model quickly got discontinued when the world wanted newer, bigger, better models thanks to the rise of ChatGPT. Sadly, a big part of what made these early generations so fun was the lack of refinement and alignment of these earlier LLMs. Now, the project uses a version of [Llama 3](https://huggingface.co/DiscoResearch/Llama3-German-8B) which still produces 
+Originally we used Huggingface Inference API to prompt [GPT-J-6B](https://github.com/kingoflolz/mesh-transformer-jax), but this model quickly got discontinued when the world wanted newer, bigger, better models thanks to the rise of ChatGPT. Sadly, a big part of what made these early generations so fun was the lack of refinement and alignment of these earlier LLMs. Now, the project uses a version of [Llama 3](https://huggingface.co/DiscoResearch/Llama3-German-8B).
 
