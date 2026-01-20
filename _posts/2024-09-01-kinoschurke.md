@@ -3,7 +3,7 @@ title: Kinoschurke - React Movie Website with Puppeteer Web Scraping
 date: 2024-09-01 00:00:00 -500
 categories: [Web Development]
 tags: [Web Scraping, Web Development, JavaScript, Puppeteer]
-pin: false
+pin: true
 image:
   path: assets/posts/2024-09-01-kinoschurke.png
   alt: Kinoschurke.de Website.

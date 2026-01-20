@@ -3,7 +3,7 @@ title: "Master's Thesis: How Semantic Watermark Robustness generalizes across Ge
 date: 2025-08-06 00:00:00 -500
 categories: [University, Master's Thesis]
 tags: [Machine Learning, Deep Learning, Generative AI, Diffusion Models, Python, PyTorch]
-pin: false
+pin: true
 image:
   path: assets/posts/master-thesis.png
   alt: Comparison of older and state-of-the-art generative models.
