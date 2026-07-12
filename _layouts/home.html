@@ -6,7 +6,22 @@ refactor: true
 {% include lang.html %}
 
 {% assign home_tab = site.tabs | where: "title", "Home" | first %}
+<!DOCTYPE html>
+<html>
 
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="refresh" content="0; url=https://magicmagnus.netllify.app/">
+  <script>location.replace('https://magicmagnus.netllify.app/');</script>
+  <title>Redirecting</title>
+</head>
+
+<body>
+  Redirecting to https://magicmagnus.netllify.app/...
+</body>
+
+</html>
+<!-- 
 {% if home_tab %}
 <h1 class="dynamic-title">
   {{ site.data.locales[lang].tabs.home | default: "Home" }}
@@ -16,26 +31,26 @@ refactor: true
 </div>
 {% endif %}
 
-<!-- Now include the projects list -->
+Now include the projects list 
 <div id="post-list" class="flex-grow-1 px-xl-1">
   {% assign pinned = site.posts | where: 'pin', 'true' %}
   {% assign default = site.posts | where_exp: 'item', 'item.pin != true and item.hidden != true' %}
 
   {% assign posts = '' | split: '' %}
 
-  <!-- Get pinned posts first -->
+  Get pinned posts first 
   {% if pinned.size > 0 %}
   {% for post in pinned %}
   {% assign posts = posts | push: post %}
   {% endfor %}
   {% endif %}
 
-  <!-- Then get regular posts -->
+  Then get regular posts 
   {% for post in default %}
   {% assign posts = posts | push: post %}
   {% endfor %}
 
-  <!-- Display all posts -->
+  Display all posts 
   {% for post in posts %}
   <article class="card-wrapper card">
     <a href="{{ post.url | relative_url }}" class="post-preview row g-0 flex-md-row-reverse">
@@ -100,4 +115,4 @@ refactor: true
     </a>
   </article>
   {% endfor %}
-</div>
+</div>  -->
